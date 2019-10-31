@@ -7,3 +7,5 @@
 ### 2. Задания по теме "Основы HTML"
 ### [Часть 1.1](https://github.com/AdukarIT/KartashovIA/commit/0890333c424fb518af7ea96322cbad85a24e67d7)
 ### [Часть 1.2](https://github.com/AdukarIT/KartashovIA/blob/master/secondhomework/product.html)
+### [Часть 2.1](https://github.com/AdukarIT/KartashovIA/blob/master/secondhomework/index2.html)
+### [Часть 2.2](https://github.com/AdukarIT/KartashovIA/blob/master/secondhomework/product.html)
