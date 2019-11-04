@@ -9,3 +9,5 @@
 ### [Часть 1.2](https://github.com/AdukarIT/KartashovIA/blob/master/secondhomework/product.html)
 ### [Часть 2.1](https://github.com/AdukarIT/KartashovIA/blob/master/secondhomework/index2.html)
 ### [Часть 2.2](https://github.com/AdukarIT/KartashovIA/blob/master/secondhomework/product.html)
+### [Задание по теме "Продвинутый HTML"]
+### [Техзадание](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/technical%20project)
