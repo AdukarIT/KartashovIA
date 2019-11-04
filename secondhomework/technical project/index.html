@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Техзадание</title>
+	<style>
+		.header{
+			width: 200px;
+			height:200px;
+			border:black 2px solid;
+		}
+		.name{
+			text-align: center;
+			font-family:sans-serif;
+			font-style: italic;
+			color: blue;
+		}
+		.enter{
+			font-size: 30px;
+			color: red;
+		}
+		.agree{
+			font-size: 35px;
+		}
+		
+	</style>
+</head>
+<body>
+	  <header>
+          <img class ="header" src="logo2.jpg" alt="логотип">
+            <h1 class="name">TWITTER SERVICE COMPANY</h1>
+      </header>
+        <section>
+          <form method='post' action='feed.html'>
+               <h2 class="enter">Вход</h2>
+               	<input type="email" placeholder="Ваш email"  required>
+	              <input type="password" placeholder="Ваш пароль" required>
+	               <button type="submit"  title="Эта форма обязательна">Отправить форму</button><br>
+	                 <br>
+	                 <h2  class="enter">Регистрация</h2>
+	                  <br>
+	                <input type="text" placeholder="Имя">
+	              <input type="email" placeholder="Ваш email"  required>
+	             <input type="password" placeholder="Ваш пароль" required>
+	           <button type="submit" title="Эта форма обязательна">Отправить</button><br>
+	           <br>
+	           <br>
+	            <em class="agree"> отметка о согласии с порядком обработки персональных данных </em>
+	              <input class="checkbox" type="checkbox" name="agree" value="зарегистрироваться" required><br>
+	          <button type="submit"  title="Эта форма обязательна">Отправить форму</button>
+          </form>
+       </section>
+      <footer>
+     </footer>
+   </body>
+</html>
