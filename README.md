@@ -11,3 +11,5 @@
 ### [Часть 2.2](https://github.com/AdukarIT/KartashovIA/blob/master/secondhomework/product.html)
 ### [Задание по теме "Продвинутый HTML"]
 ### [Техзадание](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/technical%20project)
+### [ Продвинутый HTML]
+### [Изучение иностранных языков](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/Language%20learning)
