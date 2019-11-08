@@ -1,0 +1,136 @@
+.header{
+	background: grey;
+	display: flex;
+	}
+a,div{
+	box-sizing: border-box;
+	}
+	ul,li{
+		display: block;
+		padding: 0;
+		margin: 0;
+	}
+.menu li a{
+	color:#000033;
+	transition: all 0.4s ease;
+}
+.menu a{
+	text-decoration: none;
+	margin-right: 30px;
+	font-size: 20px;
+	margin-left: 60px;
+}
+.menu{
+	display: flex;
+	align-items: center;
+	position: relative;
+	margin: 0;
+	padding: 0;	
+}
+.menu li ul{
+	position: absolute;
+	display: none;
+}
+.menu a:hover{
+	background: green;
+	color:blue;
+	transition: all 0.4s ease;
+	border-radius: 7px;
+	border: 1px solid red;
+}
+.menu li:hover > ul{
+	display: block;
+}
+.content{
+	background: #66cc99;
+	
+}
+.form{
+	margin :0;
+	padding: 0;
+	height: 70px;
+     }
+h3{
+	display: block;
+	padding: 0;
+	margin: 0;}
+
+#trip:checked+.googlemap,
+#home:checked+.adress {
+    display:inline-flex;
+}
+#post,#self
+ {
+    text-decoration: none;
+    cursor: pointer;
+    position: relative;
+
+}
+.googlemap {
+    padding-left: 400px;
+    position: absolute;
+    display: none;
+    }
+.adress {
+display: none;
+position: absolute;
+}   
+.comment {
+   display: block;
+   padding-top: 100px;
+   color: red;
+   font-size: 20px;
+}
+  input[type=checkbox]:checked~.button {
+    pointer-events: auto;
+    cursor: pointer;
+    background: blue;}
+    .button {
+    	pointer-events: none;
+    }
+    .btn {
+    display: inline-block;
+    font-size: 20px; 
+     }
+
+
+ .btn label a{
+    display: inline-block;
+    text-decoration: none;
+}
+
+.button {
+    font-size: 14px;
+    text-align: center;
+    border-radius: 15px;
+    pointer-events: none;
+
+    
+}
+.delivery{
+	
+	background:#33ffff;
+	display: block;
+	margin : 0;
+	padding: 0
+}
+.delivery label{
+	font-size: 20px;
+}
+p{
+	display: block;
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+}
+.footer {
+	background: yellow;
+	display: block;
+    margin-top: 5px;
+    padding: 0;
+    text-align: center;
+    height: 60px;
+	font-size: 25px;
+	line-height: 60px;
+	font-weight: bold;
+}

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Страница оформления заказа</title>
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	</head>
+<body>
+<header class="header">
+	<img width="200" height="150" src="https://st.weblancer.net/download/1136567_935xp.jpg" alt="логотип">
+    <ul class="menu">
+		<li>                                            <a href="#">Бытовая техника</a>
+			    <ul>
+				<li><a href="#">Стиральные машины</a></li>
+				<li><a href="#">Пылесосы</a></li>
+				<li><a href="#">Утюги</a></li>
+				<li><a href="#">Швейные, вышивальные машины</a></li>
+				<li><a href="#">Электровеники</a></li>	
+	</ul>
+		 </li>
+		    <li><a href="#">Техника для кухни</a>
+			   <ul>
+				<li><a href="">Холодильники</a></li>
+				<li><a href="">Кухонные плиты</a></li>
+				<li><a href="">Морозильники</a></li>
+				<li><a href="">Ростеры, мини-печи</a></li>
+				<li><a href="">Вытяжки</a></li>
+				<li><a href="">Микроволновые печи</a></li>
+				<li><a href="">Настольные плиты</a></li>
+			   </ul>
+		 </li>
+		<li><a href="#">Компьютерная техника</a>
+           <ul>
+				<li><a href="">Ноутбуки</a></li>
+				<li><a href="">Планшеты</a></li>
+				<li><a href="">Компьютеры, моноблоки</a></li>
+				<li><a href="">Игровые приставки</a></li>
+				<li><a href="">Серверное оборудование</a>
+				</li>
+		   </ul>
+	   </li>
+		<li><a href="#">Корзина</a></li>
+	</ul>
+	</header>
+	<main>
+		<div class="content">
+		<form class="form-inner">
+		<h3 class="form">Оформить заказ</h3><br>
+        <p>Введите Ваше имя<br><input type="text" placeholder="Name" required></p>
+        <p>Введите Ваш email<br><input type="email" placeholder="Email" required></p>
+        <p>Введите Ваш телефон<br>
+        	<input type="tel" name="tel" 
+        placeholder="+375333776598" required></p><br>
+        <p><input type="submit" value="Отправить"></p>
+   </form>
+  </div>
+       <div class="delivery">
+          <h3>Выберите способ доставки:</h3><br>
+          <label  id="self">Самовывоз со склада по адресу:</label>
+          <input type="radio" name="first" id="trip" required>
+      <div class="googlemap">
+        <iframe src="https://yandex.by/map-widget/v1/-/CCgd5ILk" width="400" height="250" allowfullscreen=""></iframe>
+      </div>
+      <div>
+         <label  id="post">Курьером по г.Минску</label>
+          <input type="radio" name="first" id="home" required>
+           <div class="adress">
+             <textarea rows="5" cols="30" name="text" placeholder="Адрес доставки:" required></textarea>
+            </div>
+      </div>     
+         <div class="comment">
+            <p>Комментарий к заказу</p>
+            <textarea rows="7" cols="35" 
+                     name="text" placeholder="Введите комментарий"></textarea>
+          </div>
+         <div class="btn">
+            <p>Я прочитал и согласен с <a href="#"> условиями доставки</a></p>
+             <input type="checkbox">
+             <button class="button">Подтвердить заказ</button>
+         </div>
+   </div>
+   <div class="time">
+	<h3>Время работы :</h3>
+	<p>Понедельник-Пятница: c 8.00 до 17.00</p>
+	<p>Суббота-Воскресенье:выходной</p>
+	<h3>Наши телефоны</h3>
+	<p>:+375333776598<br>
+	    +3750172345678
+	</p>
+	<h3>Наш адрес:</h3>
+	<p>г.Минск,ул.Крупской 25а</p>
+	<h3>Skype:</h3>
+	<p>technokrat2019</p>
+  </div>
+</main>
+  <footer class="footer">
+  	<span>&#169;Технократ 2017</span>
+  </footer>
+</body>
+</html>
+
+
+ 
