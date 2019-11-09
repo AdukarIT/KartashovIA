@@ -13,4 +13,4 @@
 ### [Техзадание](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/technical%20project)
 ### [ Продвинутый HTML]
 ### [Изучение иностранных языков](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/Language%20learning)
-###[Задания по теме "Основы CSS. Позиционирование"](Практика)(https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/Order%20list)
+###[Задания по теме "Основы CSS. Позиционирование"]((https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/Order%20list)
