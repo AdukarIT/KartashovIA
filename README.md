@@ -14,5 +14,5 @@
 ### [ Продвинутый HTML]
 ### [Изучение иностранных языков](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/Language%20learning)
 ###[Задания по теме "Основы CSS. Позиционирование]
-###[Магазин оргтехники]
+### [Магазин оргтехники]
 (https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/Order%20list)
