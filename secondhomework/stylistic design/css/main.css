@@ -1,0 +1,18 @@
+
+	
+    .sky
+        {
+        	height: 100vh;
+    	background:url('../img/sun.png') left top no-repeat,url('../img/sea.jpg')center bottom no-repeat,url('../img/sky.jpg') left top repeat;
+    	background-size: 250px,100% 300px,auto;
+        } 
+          
+    
+
+
+  
+
+        
+
+	           
+
