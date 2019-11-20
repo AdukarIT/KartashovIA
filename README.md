@@ -17,3 +17,6 @@
 ### [Магазин бытовой техники](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/Order%20list)
 ### [10. Изображения. Шрифты и иконки]
 ### [Пляж](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/stylistic%20design)
+### [Задание 2. Лайк](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/like)
+### [Задание 3. Чекбокс](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/Check-box)
+### [Задание 4. Header магазина](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/Shop)
