@@ -20,4 +20,5 @@
 ### [Задание 2. Лайк](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/like)
 ### [Задание 3. Чекбокс](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/Check-box)
 ### [Задание 4. Header магазина](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/Shop)
-### [12. Flexbox.Адукар](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/CSS.FLEXBOX)
+### 12. Flexbox
+### [Адукар](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/CSS.FLEXBOX)
