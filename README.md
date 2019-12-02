@@ -11,9 +11,8 @@
 ### [Часть 2.2](https://github.com/AdukarIT/KartashovIA/blob/master/secondhomework/product.html)
 ### Задание по теме "Продвинутый HTML"
 ### [Техзадание](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/technical%20project)
-###  Продвинутый HTML
 ### [Изучение иностранных языков](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/Language%20learning)
-### [Задания по теме "Основы CSS. Позиционирование
+### Задания по теме "Основы CSS. Позиционирование
 ### [Магазин бытовой техники](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/Order%20list)
 ### 10. Изображения. Шрифты и иконки
 ### [Пляж](https://github.com/AdukarIT/KartashovIA/tree/master/secondhomework/stylistic%20design)
